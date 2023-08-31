@@ -8,8 +8,6 @@ that economic sanctions have in fact a negative impact on the political stabilit
 application of economic sanctions, given their potential to destabilize target
 countries politically.
 
-**Models:** OLS, OLS with transformations, Gamma and Polynomial Regressions.
-
 
 **Data:** The economic sanctions data used in this research is from World Governance Indicators 2022 Political Stability and Absence No Violence dataset.
 The economic sanctions data was acquired from Threat and Imposition of

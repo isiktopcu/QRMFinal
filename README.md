@@ -1,4 +1,4 @@
-**QRMFinal: Economic Sanctions: A Threat to the Political Stability of Target States?**
+**QRMProject: "Economic Sanctions: A Threat to the Political Stability of Target States?"**
 
 
 This study investigates the impact of economic sanctions on the political stability of target countries, a subject of enduring debate and policy relevance.
